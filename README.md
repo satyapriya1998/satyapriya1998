@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyapriya1998 Also known as Satyapriya
 - 👀 I’m interested in Internet of Things and Web Dev.
 - 🌱 I’m currently learning Web Dev.
-- 💞️ I’m looking to collaborate with Realtimne Web Dev projects.
+- 💞️ I’m looking to collaborate with Realtime Web Dev projects.
 - 📫 How to reach me -> LinkedIn: https://www.linkedin.com/in/satyapriya-behera/ OR mail me at: satya.ruchika12@gmail.com
 
 <!---
