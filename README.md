@@ -5,31 +5,43 @@ DevOps Engineer | Azure DevOps | GitHub Actions | CI/CD | Release Automation | M
 </h3>
 
 <p align="center">
-Building reliable CI/CD pipelines, automating deployments, and continuously learning modern DevOps technologies.
+Passionate about building reliable CI/CD pipelines, automating software delivery, and continuously improving DevOps practices.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 DevOps Engineer with **5 years of experience**
-- 🚀 Specializing in **Azure DevOps**, **GitHub Actions**, **CI/CD**, and **Release Automation**
-- 🔧 Experienced in automating build and deployment workflows for **.NET** and **Angular** applications
-- ⚙️ Hands-on experience with **Azure Pipelines**, **Git**, **PowerShell**, **Windows Services**, and **Self-hosted Runners**
-- 🌱 Currently building hands-on expertise in **Docker**, **Kubernetes**, **Terraform**, and **Linux**
-- 🎯 Preparing for advanced DevOps, Cloud, and Platform Engineering roles
+I'm a **DevOps Engineer** with **5 years of experience** in designing, automating, and optimizing Continuous Integration & Continuous Deployment (CI/CD) pipelines.
+
+My primary expertise lies in **Azure DevOps**, **GitHub Actions**, **Release Automation**, and **Deployment Automation**, where I focus on delivering secure, reliable, and scalable deployment workflows for enterprise applications.
+
+I enjoy solving deployment challenges, improving release reliability, and automating repetitive operational tasks.
+
+I'm currently expanding my skill set by building hands-on expertise in **Linux**, **Docker**, **Kubernetes**, and **Terraform** to become a well-rounded Cloud & DevOps Engineer.
 
 ---
 
-## 🛠️ Tech Stack
-
-### DevOps
+# 🚀 Core Expertise
 
 - Azure DevOps
 - GitHub Actions
-- Azure Pipelines
-- CI/CD
+- Azure Pipelines (YAML)
+- CI/CD Automation
 - Release Automation
+- Deployment Automation
+- Git & Azure Repos
+- PowerShell
+- Windows Services
+- Self-hosted Runners
+
+---
+
+# ☁️ Cloud & DevOps
+
+### Cloud
+
+- Microsoft Azure
 
 ### Version Control
 
@@ -37,14 +49,11 @@ Building reliable CI/CD pipelines, automating deployments, and continuously lear
 - GitHub
 - Azure Repos
 
-### Cloud
-
-- Microsoft Azure
-
 ### Automation
 
+- Azure Pipelines
+- GitHub Actions
 - PowerShell
-- Windows Services
 
 ### Monitoring
 
@@ -52,38 +61,67 @@ Building reliable CI/CD pipelines, automating deployments, and continuously lear
 - Application Insights
 - Log Analytics
 
-### Currently Learning
+### Deployment
 
-- Docker
-- Kubernetes
-- Terraform
-- Linux Administration
-
----
-
-## 🏆 Certification
-
-- ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
+- .NET Applications
+- Angular Applications
+- Windows Services
 
 ---
 
-## 🌱 Current Focus
+# 🌱 Currently Learning
 
 - Linux Administration
 - Docker
 - Kubernetes
 - Terraform
 - Cloud-native DevOps
-- Azure DevOps Best Practices
-- GitHub Actions Automation
+- Infrastructure as Code
+- DevOps System Design
 
 ---
 
-## 📫 Connect with Me
+# 🏆 Certification
 
-- 💼 LinkedIn: https://www.linkedin.com/in/satyapriya-behera/
-- 📧 Email: satyapriyabehera98@gmail.com
+- ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🎯 2026 Goals
+
+- Build production-style DevOps projects
+- Master Docker & Kubernetes
+- Become proficient in Terraform
+- Deepen Linux administration skills
+- Strengthen Azure cloud expertise
+- Contribute to open-source DevOps projects
+
+---
+
+# 📂 Featured Repositories
+
+Coming Soon 🚀
+
+- Azure DevOps YAML Pipelines
+- GitHub Actions CI/CD
+- Linux for DevOps
+- Docker Learning Labs
+- Kubernetes Hands-on Labs
+- Terraform on Azure
+- DevOps Interview Notes
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/satyapriya-behera/
+
+📧 Email  
+satyapriyabehera98@gmail.com
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, or discuss DevOps, Cloud, and Automation.
+</p>
