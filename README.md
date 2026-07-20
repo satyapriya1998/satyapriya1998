@@ -67,18 +67,6 @@ Building reliable CI/CD pipelines, automating deployments, and continuously lear
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satyapriya1998&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapriya1998&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌱 Current Focus
 
 - Linux Administration
